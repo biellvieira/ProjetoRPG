@@ -1,0 +1,15 @@
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.exe
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.deps.json
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.runtimeconfig.json
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.dll
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ref\ProjetoRPG.dll
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.AssemblyReference.cache
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfo.cs
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.dll
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ref\ProjetoRPG.dll
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\vieir\Desktop\Projetos\ProjetoRPG\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.genruntimeconfig.cache
